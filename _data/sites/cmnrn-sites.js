@@ -7,7 +7,7 @@ module.exports = {
 	},
 	urls: [
 		"https://victorcamnerin.com/",
-		"https://oskarlindwall.se",
-		"https://musika-blasexperten.se"
+		"https://oskarlindwall.com/",
+		"https://musica-blasexperten.se/"
 	]
 };
