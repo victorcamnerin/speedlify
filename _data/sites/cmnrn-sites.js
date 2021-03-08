@@ -9,5 +9,6 @@ module.exports = {
 		"https://victorcamnerin.com/",
 		"https://oskarlindwall.com/",
 		"https://musica-blasexperten.se/"
+		"https://brightchange.se/"
 	]
 };
